@@ -6,7 +6,7 @@
 // @author Thomas Bnt
 // @icon https://icons.duckduckgo.com/ip3/dev.to.ico
 // @include https://dev.to/*
-// @homepageUrl https://github.com/devtotools/open-devto-panel-sidebar-mod
+// @homepageURL https://github.com/devtotools/open-devto-panel-sidebar-mod
 // @updateURL https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
 // @downloadURL https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
 // @grant window.onurlchange
