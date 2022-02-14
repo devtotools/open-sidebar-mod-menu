@@ -9,7 +9,7 @@
 // @homepageUrl https://github.com/devtotools/open-devto-panel-sidebar-mod
 // @updateURL https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
 // @downloadURL https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
-// @grant none
+// @grant window.onurlchange
 // @noframes
 // ==/UserScript==
 
