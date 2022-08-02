@@ -4,7 +4,7 @@
 ## How to install it ?
 
 1. Install **[Tampermonkey](https://www.tampermonkey.net/)** or similar extension which enables the browser to run Userscripts.
-2. Copy the code in *[AutoOpenSidebarModDEV.js](AutoOpenSidebarModDEV.user.js)* as a **Tampermonkey** script. 
+2. Copy the code in *[AutoOpenSidebarModDEV.user.js](AutoOpenSidebarModDEV.user.js)* as a **Tampermonkey** script. 
 3. Activate the script.
 
 ### Already have Tampermonkey or alternative ?
