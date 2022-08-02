@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name Automatically open the Mod panel on DEV.
 // @namespace https://dev.to
-// @version 0.2
+// @version 0.3
 // @description Automatically open the Mod panel on DEV.
 // @author Thomas Bnt
 // @icon https://icons.duckduckgo.com/ip3/dev.to.ico
 // @match https://dev.to/*
 // @homepageURL https://github.com/devtotools/open-devto-panel-sidebar-mod
-// @updateURL    https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
-// @downloadURL  https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.js
+// @updateURL    https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.user.js
+// @downloadURL  https://raw.githubusercontent.com/devtotools/open-devto-panel-sidebar-mod/main/AutoOpenSidebarModDEV.user.js
 // @grant window.onurlchange
 // @noframes
 // ==/UserScript==
