@@ -3,13 +3,13 @@
 
 ## How to install it ?
 
-1. Install **TamperMonkey** or other extension which allows the browser to run Userscripts.
-2. Copy the code in *[AutoOpenSidebarModDEV.js](AutoOpenSidebarModDEV.js)* as a **TamperMonkey** script. 
+1. Install **[Tampermonkey](https://www.tampermonkey.net/)** or similar extension which enables the browser to run Userscripts.
+2. Copy the code in *[AutoOpenSidebarModDEV.js](AutoOpenSidebarModDEV.user.js)* as a **Tampermonkey** script. 
 3. Activate the script.
 
-### Already have TamperMonkey or alternative ?
+### Already have Tampermonkey or alternative ?
 
-[Click here to install the script](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.js).
+[Click here to install the script](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.user.js).
 
 ## Sources
 
