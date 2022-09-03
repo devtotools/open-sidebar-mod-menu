@@ -1,5 +1,9 @@
-# open-devto-panel-sidebar-mod
-> Automatically open the Mod panel on DEV.
+# Open sidebar mod menu
+Automatically open the Mod menu on DEV (*or any Forem community*).
+
+> **Note**
+>
+> This script was created for [dev.to](https://dev.to) but can work with others Forems community.
 
 ## How to install it ?
 
@@ -9,8 +13,10 @@
 
 ### Already have Tampermonkey or alternative ?
 
-[Click here to install the script](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.user.js).
+| :electric_plug: |[Click here to install the script →](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.user.js)|
+|---|---|
+
 
 ## Sources
 
-https://github.com/forem/forem/blob/main/app/javascript/actionsPanel/initializeActionsPanelToggle.js#L19
+[`function toggleModActionsMenu()` in the code source of Forem](https://github.com/forem/forem/blob/main/app/javascript/actionsPanel/initializeActionsPanelToggle.js#L19)
