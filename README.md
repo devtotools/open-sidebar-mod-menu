@@ -16,7 +16,7 @@ Automatically open the Mod menu on DEV (*or any Forem community*).
 | :electric_plug: | [Click here to install the script →](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.user.js) |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-
 ## Sources
 
-[`function toggleModActionsMenu()` in the code source of Forem](https://github.com/forem/forem/blob/main/app/javascript/actionsPanel/initializeActionsPanelToggle.js#L19)
+- [This tool has been demonstrated on dev.to : `Nice tool to moderate bad posts`](https://dev.to/thomasbnt/nice-tool-to-moderate-bad-posts-on-a-forem-4381)
+- [`function toggleModActionsMenu()` in the code source of Forem](https://github.com/forem/forem/blob/main/app/javascript/actionsPanel/initializeActionsPanelToggle.js#L19)
