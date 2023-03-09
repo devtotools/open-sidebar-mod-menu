@@ -13,7 +13,7 @@ Automatically open the Mod menu on DEV (*or any Forem community*).
 
 ### Already have Tampermonkey or alternative ?
 
-| :electric_plug: | [Click here to install the script →](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarModDEV.user.js) |
+| :electric_plug: | [Click here to install the script →](https://github.com/devtotools/open-devto-panel-sidebar-mod/raw/main/AutoOpenSidebarMenu.user.js) |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Sources
