@@ -15,12 +15,14 @@
 
 // See at https://github.com/forem/forem/blob/main/app/javascript/actionsPanel/initializeActionsPanelToggle.js#L19
 
-(function() {
-    'use strict';
-document
-      .getElementById('mod-actions-menu-btn-area')
-      .classList.remove('hidden');
-    document
-      .getElementsByClassName('mod-actions-menu')[0]
-      .classList.toggle('showing');
+(function () {
+  "use strict";
+  // If in the URL we have ?preview=, don't open the menu
+  if (window.location.href.indexOf("?preview=") > -1) return false;
+  document
+    .getElementById("mod-actions-menu-btn-area")
+    .classList.remove("hidden");
+  document
+    .getElementsByClassName("mod-actions-menu")[0]
+    .classList.toggle("showing");
 })();
