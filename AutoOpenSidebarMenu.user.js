@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Automatically open the Mod panel on DEV.
 // @namespace https://dev.to
-// @version 0.4
+// @version 0.5
 // @description Automatically open the Mod panel on DEV.
 // @author Thomas Bnt
 // @icon https://icons.duckduckgo.com/ip3/dev.to.ico
